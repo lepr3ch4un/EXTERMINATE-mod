@@ -1,0 +1,8 @@
+{
+  "entity.cyberman.step": {
+    "subtitle": "sounds.exterminate.entity.cyberman.step",
+    "sounds": [
+      "exterminate:entity/cyberman/step"
+    ]
+  }
+}
